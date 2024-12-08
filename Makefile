@@ -1,4 +1,4 @@
-#!/usr/bin/env make
+#!/usr/bin/env make 
 
 INPUT = $(HOME)/q/office/accounting/blais.beancount
 DOWNLOADS = $(HOME)/u/Downloads
